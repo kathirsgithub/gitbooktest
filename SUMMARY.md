@@ -15,4 +15,5 @@
   * [Integrations](getting-started/spaces/integrations.md)
   * [Analytics](getting-started/spaces/analytics.md)
   * [Advanced](getting-started/spaces/advanced.md)
+* [Trial](getting-started/trial.md)
 
